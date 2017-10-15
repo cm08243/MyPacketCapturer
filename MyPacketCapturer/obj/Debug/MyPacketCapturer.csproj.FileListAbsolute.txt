@@ -1,0 +1,14 @@
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\bin\Debug\MyPacketCapturer.exe
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\bin\Debug\MyPacketCapturer.pdb
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\bin\Debug\PacketDotNet.dll
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\bin\Debug\SharpPcap.dll
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\bin\Debug\PacketDotNet.xml
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\bin\Debug\SharpPcap.xml
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\bin\Debug\SharpPcap.dll.config
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.csprojResolveAssemblyReference.cache
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.Properties.Resources.resources
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.csproj.GenerateResource.Cache
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.exe
+c:\users\corey\documents\visual studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.pdb
+C:\Users\Corey\Documents\Visual Studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.frmCapture.resources
+C:\Users\Corey\Documents\Visual Studio 2017\Projects\MyPacketCapturer\MyPacketCapturer\obj\Debug\MyPacketCapturer.frmsend.resources
